@@ -5,7 +5,7 @@
 - Nueva versión del challenge con todas las vistas en React
 - Todas las validaciones se realizan usando RegEx.
 - Por falta de tiempo, no se pudieron agregar tests a la aplicación, aunque sí hay acciones en la tabla. 
-- Para correr el proyecto: 
+- Para correr el proyecto, se deben correr los siguientes comandos en las dos carpetas, client y server: 
 ```
 $ npm install
 $ npm start
